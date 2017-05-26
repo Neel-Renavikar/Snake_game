@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Animal\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ turn()
+comment2.params=angle
+comment2.target=void\ turn(int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=speeed
+comment4.target=void\ move(double)
+comment5.params=
+comment5.target=boolean\ atWorldEdge()
+comment6.params=clss
+comment6.target=boolean\ canSee(java.lang.Class)
+comment6.text=\r\n\ Return\ true\ if\ we\ can\ see\ an\ object\ of\ class\ 'clss'\ right\ where\ we\ are.\ \r\n\ False\ if\ there\ is\ no\ such\ object\ here.\r\n
+comment7.params=clss
+comment7.target=void\ eat(java.lang.Class)
+comment7.text=\r\n\ Try\ to\ eat\ an\ object\ of\ class\ 'clss'.\ This\ is\ only\ successful\ if\ there\r\n\ is\ such\ an\ object\ where\ we\ currently\ are.\ Otherwise\ this\ method\ does\r\n\ nothing.\r\n
+numComments=8
